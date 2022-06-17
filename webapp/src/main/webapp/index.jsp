@@ -32,7 +32,8 @@
   </div>
 
    <h1> Thankyou, Happy Learning
-  This is Hima edited from Git Bash trying build trigger poll scm autimatic  
+  This is Hima edited from Git Bash trying build trigger poll scm autimatic
+  secon edit 
    </h1>
 
   
